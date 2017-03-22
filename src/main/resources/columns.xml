@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<columns type="deal">
+    <column>earlist_deal_date</column>
+    <column>cur_overdue_status</column>
+    <column>cur_overdue_max_days</column>
+    <column>his_overdued_max_days</column>
+    <column>his_prepaid_max_days</column>
+    <column>due_prepaid_period</column>
+    <column>due_overduepaid_period</column>
+    <column>total_amt</column>
+    <column>overdue_amt</column>
+    <column>total_deals</column>
+    <column>total_deals_p3</column>
+    <column>total_deals_p6</column>
+    <column>total_deals_p12</column>
+    <column>std_total_t_facility</column>
+    <column>average_amt</column>
+    <column>month_after_facility</column>
+    <column>average_trans_usage_rate</column>
+    <column>facility_date_format</column>
+</columns>

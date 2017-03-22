@@ -1,0 +1,17 @@
+*.class
+*.log
+
+# sbt specific
+.cache
+.history
+.svn/
+.settings/
+.idea/
+target/
+tmp/
+dependency-reduced-pom.xml
+*.log
+*.iml
+.classpath
+.cache-main
+.project
